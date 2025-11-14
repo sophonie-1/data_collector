@@ -42,8 +42,8 @@ data-analytics-code-challenge/
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
 ├── data1.csv                 # Synthetic dataset (do not modify or replace)
-├── DataAnalyticsCodeChallenge.ipynb  # Starter notebook for analysis
-└── output/                   # (Optional) Generated plots and results
+├── bukira_sophonie.ipynb  # Starter notebook for analysis
+└── temp_cell.json                   # (Optional) Generated plots and results
 ```
 
 ## Usage
@@ -97,7 +97,7 @@ This is a challenge repo—fork and experiment! For questions, open an issue.
 MIT License—feel free to adapt for educational purposes.
 
 ## Acknowledgments
-Inspired by data science exploration best practices. Thanks to the challenge creators for promoting joyful data journeys!
+Inspired by UCU data science exploration best practices. Thanks to the challenge creators for promoting joyful data journeys!
 
 ---
 
