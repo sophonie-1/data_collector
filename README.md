@@ -18,9 +18,12 @@ The provided materials include a starter Jupyter notebook and a synthetic datase
 
 ### Installation
 1. Clone or download this repository.
+   ```
+   git clone https://github.com/sophonie-1/data_collector.git
+   ```
 2. Navigate to the project directory:
    ```
-   cd data-analytics-code-challenge
+   cd data_collector
    ```
 3. Create a virtual environment (recommended):
    ```
