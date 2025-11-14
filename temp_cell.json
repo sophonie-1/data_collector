@@ -1,0 +1,10 @@
+{
+ "cell_type": "code",
+ "execution_count": null,
+ "id": "temp_cell",
+ "metadata": {},
+ "outputs": [],
+ "source": [
+  "print(data.columns)"
+ ]
+}
